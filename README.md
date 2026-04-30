@@ -152,5 +152,14 @@ async def _send_qq_notification(self, qq_number: str, message: str):
 
 ```python
 # db_manager.py 第2812-2843行
-async def _send_email_via_api(self, email: str, subject: str, 
+async def _send_email_v
 ```
+
+</details>
+
+---
+
+## 个人备注
+
+> 📌 **Fork 说明**：本仓库仅用于学习目的，重点研究其 WebSocket 长连接管理与异步消息处理逻辑。  
+> 上方安全报告内容值得认真阅读，**强烈不建议将此项目用于任何真实账号或生产环境**。
